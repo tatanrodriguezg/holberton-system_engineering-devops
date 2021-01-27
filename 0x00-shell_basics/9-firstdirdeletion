@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm -r /etc/holberton
+rm -r /tmp/holberton
