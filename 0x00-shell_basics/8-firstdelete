@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm /etc/holberton/betty
+rm /tmp/holberton/betty
