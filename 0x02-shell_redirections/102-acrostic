@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 < list | paste -sd ''
+cut -c 1 | tr -d "\n" | fmt
