@@ -1,0 +1,22 @@
+.:
+total 72
+-rwxrw-r-- 1 vagrant vagrant   22 Jan 31 23:05 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   20 Jan 31 23:09 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   28 Jan 31 23:14 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   39 Jan 31 23:16 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   35 Jan 31 23:18 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   35 Jan 31 23:21 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   36 Jan 31 23:29 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   90 Feb  1 00:15 7-file
+-rw-rw-r-- 1 vagrant vagrant   18 Jan 31 23:36 7-file~
+-rwxrw-r-- 1 vagrant vagrant   36 Feb  1 00:17 8-cwd_state
+-rwxrw-r-- 1 vagrant vagrant   35 Feb  1 00:54 9-duplicate_last_line
+-rw-rw-r-- 1 vagrant vagrant   13 Jan 31 23:05 hello
+-rw-rw-r-- 1 vagrant vagrant   18 Feb  1 00:13 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant  801 Jan 31 23:24 iacta
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  1 00:53 last
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  1 01:04 list
+-rw-rw-r-- 1 vagrant vagrant 1065 Feb  1 00:18 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant    8 Jan 31 23:08 one
+-rw-rw-r-- 1 vagrant vagrant   39 Jan 31 23:07 README.md
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  1 01:04 test.js
